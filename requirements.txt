@@ -69,7 +69,7 @@ prompt-toolkit==2.0.9
 ptyprocess==0.6.0
 pyasn1==0.4.5
 pyemd==0.5.1
-Pygments==2.3.1
+Pygments==2.7.4
 pylint==2.3.1
 Pyphen==0.9.5
 pyrsistent==0.14.11
